@@ -19,5 +19,5 @@ resource "aws_vpc" "my_vpc" {
 }
 
 resource "aws_subnet" "my_subnet" {
-    vpc_id = 
+    vpc_id = aws_
 }
