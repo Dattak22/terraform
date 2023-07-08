@@ -18,4 +18,6 @@ resource "aws_vpc" "my_vpc" {
     }
 }
 
-resource "aws_subnet" "my_subnet"
+resource "aws_subnet" "my_subnet" {
+    
+}
