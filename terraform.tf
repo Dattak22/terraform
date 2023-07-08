@@ -1,1 +1,1 @@
-resou
+resource 
