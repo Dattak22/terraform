@@ -7,5 +7,5 @@ resource "aws_instance" "my_instance" {
     key_name = "dev-key-pair"
     tags = {
         name = "datta" 
-}
+
 }    
