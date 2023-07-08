@@ -14,7 +14,7 @@ resource "aws_instance" "my_instance" {
 resource "aws_vpc" "my_vpc" {
     cidr_block = "10.0.0.0/16"
     tags = {
-        name = "cbz-vpc"
+        Name = "cbz-vpc"
     }
 }
 
