@@ -11,4 +11,6 @@ resource "aws_instance" "my_instance" {
     }
 }    
 
-resource "aws_vpc"
+resource "aws_vpc" "my_vpc" {
+    
+}
