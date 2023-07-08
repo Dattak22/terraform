@@ -13,5 +13,6 @@ resource "aws_instance" "my_instance" {
 
 resource "aws_vpc" "my_vpc" {
     name = "cbz-vpc"
-    cidr 
+    cidr = "10.0.0.0/16"
+    
 }
