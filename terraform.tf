@@ -17,3 +17,4 @@ resource "aws_vpc" "my_vpc" {
         name = "cbz-vpc"
     }
 }
+
